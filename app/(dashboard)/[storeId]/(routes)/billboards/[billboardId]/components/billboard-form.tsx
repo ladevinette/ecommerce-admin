@@ -22,7 +22,6 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import { ApiAlert } from "@/components/ui/api-alert";
 import { AlertModal } from "../../../settings/components/alert-modal";
 import ImageUpload from "@/components/ui/image-upload";
 
